@@ -2,4 +2,4 @@
 
 mi primer repositorio en github
 
-i love: :soccer:, :icecream:, :sleep: 
+i love: :soccer:, :icecream:
